@@ -1,0 +1,145 @@
+@font-face {
+  font-family: RobotoBlack;
+  src: url(Roboto-Black.ttf);
+}
+@font-face {
+  font-family: Roboto;
+  src: url(Roboto-Light.ttf);
+}
+body {
+  margin-bottom: 500px;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.bannerPrincipal {
+  position: relative;
+}
+.bannerPrincipal .banner {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+.button-crecimiento-personal {
+  width: 200px;
+  height: 40px;
+  border-radius: 30px;
+  border: 2px solid #85c14c;
+  color: #85c14c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container-tajeta {
+}
+.caja-hoja {
+  width: 100%;
+  height: 150px;
+  border-radius: 35px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.caja-hoja p {
+  font-size: 1.5rem;
+}
+.container-cards-crecimiento {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 8rem;
+}
+.container-banner-principal {
+  background-color: #082f23;
+  padding-bottom: 3rem;
+}
+.container-logo {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding-top: 78px;
+}
+.container-logo .logo {
+  max-width: 24%;
+}
+.container-tajeta {
+  position: relative;
+}
+.card-crecimiento {
+  width: 19%;
+  background-color: white;
+  height: 350px;
+  border-radius: 120px 40px 40px 40px;
+  position: relative;
+  box-shadow: 0px 3px 0px 1px #ccc;
+}
+.grid-tarjetas {
+  display: grid;
+  max-width: 1200px;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 130px;
+  column-gap: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -125px;
+}
+.info-crecimiento {
+  position: absolute;
+  bottom: 0;
+  height: 50%;
+  padding-top: 10px;
+}
+.leaf {
+  width: 20%;
+  height: 90px;
+  background-color: #50b37e;
+  border-radius: 50px 0 50px 0;
+  position: absolute;
+  top: -15px;
+  left: -5px;
+}
+.modelo-formativo {
+  background-color: #f2f2f2;
+  height: 8241px;
+  padding-top: 3rem;
+}
+.texto-crecimiento {
+  text-align: center;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  width: 87%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.titulo-crecimiento {
+  text-align: center;
+  margin-bottom: 1.2rem;
+  font-weight: 900;
+  font-size: 25px;
+}
+.title-1 {
+  font-family: RobotoBlack;
+  color: white;
+  font-size: 3.6rem;
+  padding-top: 3rem;
+}
+.title-2 {
+  font-family: roboto;
+  color: white;
+  font-size: 2.4rem;
+  padding-top: 1rem;
+}
+.title-3 {
+  font-family: roboto;
+  color: white;
+  padding-top: 2rem;
+}

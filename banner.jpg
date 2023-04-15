@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="169.333mm" height="73.9919mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1258.66 549.98"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#ACCA60;stroke-width:1.49;stroke-miterlimit:10}
+    .str0 {stroke:#50B17E;stroke-width:1.49;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .str1 {stroke:#50B17E;stroke-width:0.74;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+    .fil2 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fil4 {fill:#3D937A;fill-rule:nonzero}
+    .fil1 {fill:#50B17E;fill-rule:nonzero}
+    .fil3 {fill:#ACCA60;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M0.01 0l0 419.17c48.47,54.38 242.37,224.66 659.57,62.46l0 0c0,0 352.99,-121.18 599.08,59.66l0 0 0 -541.29 -1258.65 0z"/>
+   </clipPath>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-51.78" y="-521.08" width="1461.66" height="1096.24" xlink:href="banner_Images\banner_ImgID1.png"/>
+  </g>
+  <g id="_2031310465568">
+   <path class="fil0" d="M-0 0l0 419.26c48.43,54.24 242.3,224.57 659.75,62.32 0,0 352.96,-121.21 598.72,59.77l0 -541.34 -1258.47 0z"/>
+  </g>
+  <g id="_2031310467200">
+   <image x="-0" y="0" width="1258.47" height="1.89" xlink:href="banner_Images\banner_ImgID2.png"/>
+  </g>
+  <path class="fil1" d="M376.7 105.53l-8.34 0c-6.91,0 -12.51,5.61 -12.51,12.52l0 7.79 8.34 0c6.91,0 12.51,-5.61 12.51,-12.52l0 -7.79z"/>
+  <path class="fil2 str0" d="M315.92 338.87l-12.58 0c-10.42,0 -18.88,8.45 -18.88,18.88l0 11.74 12.58 0c10.42,0 18.88,-8.45 18.88,-18.88l0 -11.74z"/>
+  <path class="fil2 str1" d="M912.72 321.83l-7.73 0c-6.41,0 -11.6,5.2 -11.6,11.61l0 7.22 7.73 0c6.41,0 11.6,-5.2 11.6,-11.61l0 -7.22z"/>
+  <path class="fil3" d="M181.55 231.38l-12.58 0c-10.42,0 -18.88,8.45 -18.88,18.88l0 11.74 12.58 0c10.42,0 18.87,-8.45 18.87,-18.88l0 -11.74z"/>
+  <path class="fil2 str2" d="M926.52 138.96l-18.85 0c-15.62,0 -28.28,12.66 -28.28,28.29l0 17.59 18.85 0c15.62,0 28.28,-12.66 28.28,-28.29l0 -17.59z"/>
+  <path class="fil4" d="M1058.27 318.55l-18.85 0c-15.62,0 -28.28,12.66 -28.28,28.29l0 17.59 18.85 0c15.62,0 28.28,-12.66 28.28,-28.29l0 -17.59z"/>
+ </g>
+</svg>

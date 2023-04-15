@@ -1,0 +1,57 @@
+{
+  "cliente": {
+    "clienteID": "80911",
+
+    "clienteName": "NIETO",
+
+    "clienteApellido": "LORENA ISABEL",
+
+    "sexo": false,
+
+    "tipoDocumentoID": null,
+
+    "documentoNumero": "60333002",
+
+    "fechaNacimiento": null,
+
+    "edad": null,
+
+    "direccion": "KERMAN ",
+
+    "telefono": null,
+
+    "celular": "3176469406",
+
+    "email": "diana.betancourt@decameron.com",
+
+    "departamentoID": 24,
+
+    "ciudadID": 867,
+
+    "timeStamp": "2023-04-13T14:44:00",
+
+    "activo": true,
+
+    "empresa": null,
+
+    "empresaID": null,
+
+    "Ciudade": null,
+
+    "Departamento": null,
+
+    "TiposDocumento": null,
+
+    "DescuentosAutorizados": [],
+
+    "Facturas": [],
+
+    "ValidacionesClientes": [],
+
+    "VipsCards": [],
+
+    "Vouchers": [],
+
+    "DescuentosAutorizados1": []
+  }
+}
